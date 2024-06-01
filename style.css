@@ -1,0 +1,17 @@
+body {
+  font-family: "Nunito", sans-serif;
+  user-select: none;
+}
+.color {
+  background-color: #fefcec;
+}
+.rubik {
+  font-family: "Rubik", sans-serif;
+}
+.elevate-h1 {
+  font-weight: 800;
+  font-size: 3rem;
+}
+.transform-p {
+  max-width: 70%;
+}
