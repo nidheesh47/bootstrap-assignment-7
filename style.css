@@ -1,5 +1,4 @@
 body {
-  font-family: "Nunito", sans-serif;
   user-select: none;
 }
 .color {
@@ -14,4 +13,15 @@ body {
 }
 .transform-p {
   max-width: 70%;
+}
+.card-level2 {
+  height: 100%;
+}
+.card-level {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+}
+.card-text {
+  flex-grow: 1;
 }
