@@ -22,6 +22,6 @@ body {
   height: 100%;
   flex-direction: column;
 }
-.card-text {
+.textCard {
   flex-grow: 1;
 }
